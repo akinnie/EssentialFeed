@@ -1,10 +1,10 @@
 # ``EssentialFeed``
 
-<!--@START_MENU_TOKEN@-->Summary<!--@END_MENU_TOKEN@-->
+This is the Feed Loader case study from the Lead Essentials course
 
 ## Overview
 
-<!--@START_MENU_TOKEN@-->Text<!--@END_MENU_TOKEN@-->
+This is initially a macOS framework because we want it to be platform agnostic and to test faster than if it were an iOS project.  
 
 ## Topics
 
